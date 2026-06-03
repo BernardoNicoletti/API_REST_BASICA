@@ -1,0 +1,3 @@
+public enum Gender {
+    MASCULINO, FEMININO, NAO_BINARIO, PREFIRO_NAO_INFORMAR
+}
